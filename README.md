@@ -1,14 +1,17 @@
 # Portfolio
 <h1 align="center">Hi, I'm Nguyễn Tiến Minh 👋</h1>
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/b22f347a-ffb0-406f-aa5a-c5e40c5336a8" width="300" style="border-radius: 50%;" alt="Profile Picture">
+</p>
+<p align="center">
   <b>Backend / Full-stack Developer • Building reliable systems, one endpoint at a time.</b>
 </p>
 
 <p align="center">
-  <a href="LINK_LINKEDIN_CUA_BAN" target="_blank">
+  <a href="https://www.linkedin.com/in/ti%E1%BA%BFn-minh-nguy%E1%BB%85n-58248b429/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="LINK_FACEBOOK_CUA_BAN" target="_blank">
+  <a href="https://www.facebook.com/mhhin.teni?locale=vi_VN" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:tminhnkd1405@gmail.com">
